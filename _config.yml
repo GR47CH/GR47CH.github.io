@@ -28,7 +28,7 @@ twitter_username: GR47CH
 github_username:  GR47CH
 
 # Build settings
-theme: minima
+theme: jekyll-theme-primer
 plugins:
   - jekyll-feed
 
